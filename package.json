@@ -1,0 +1,14 @@
+{
+  "name": "pocket-store",
+  "version": "1.0.0",
+  "description": "Aplicación web de una sola página que muestra un catálogo de usuarios obtenido de la API pública JSONPlaceholder y que funciona sin conexión a internet mediante un Service Worker y la Cache API.",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
