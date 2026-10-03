@@ -71,7 +71,7 @@ Manejo de errores:
 ## Instalación
 Desde Chrome o Edge, usar el icono de instalar en la barra de direcciones. La app instalada se abre en su propia ventana y funciona sin conexión.
 
-![Texto alternativo](docs/img/01-instalacion.png)
+![Texto alternativo](docs/img/01-instalacion.jpeg)
 
 ## Cómo ejecutar
 ```bash
